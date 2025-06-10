@@ -18,7 +18,7 @@
 ### 🔧 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,numpy,pandas,matplotlib,seaborn,selenium,html,flask,mysql,mongodb,postgres,git,vscode,github,postman,figma,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,selenium,html,flask,mysql,mongodb,postgres,git,vscode,github,postman,figma,tableau,powerbi" />
 </p>
 
 ---
