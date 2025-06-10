@@ -53,6 +53,18 @@
 
 ---
 
+### 🏅 Achievements
+
+- 🥇 **3× Gold Medalist in Sports**
+- 🏆 **Winner - Engineering Day Project**
+- 📜 **Google Advanced Data Analytics Professional Certified**
+- 🎓 **Top Performer - Data Science Course (VersionUp)**
+
+![Google Certified](https://img.shields.io/badge/Google-Analytics-blue?style=for-the-badge&logo=google)
+![Top Performer](https://img.shields.io/badge/Data%20Science-Top%20Performer-success?style=for-the-badge&logo=python)
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
