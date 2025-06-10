@@ -66,7 +66,7 @@
 ### 📫 Contact
 
 📍 Ahmedabad, Gujarat  
-📧 **kalpeshprajapati.work@gmail.com**  
+📧 **kalpeshprajapati19092003@gmail.com**  
 🔗 [Resume PDF](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
 
 ---
