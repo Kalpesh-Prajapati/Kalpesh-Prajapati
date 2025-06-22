@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-🎓 **Student** – B.Sc. Information Technology (2024–2026)  
+🎓 **Student** – B.Sc. Information Technology (2025–2027)  
 📊 **Data Science Projects** – 20+ Analytics Projects, 10+ Data Analyst  
 📸 **Computer Vision Developer** – Face Detection, YOLOv3 Object Detection  
 🌐 **Web Automation** – Python Scraping, API Integration  
